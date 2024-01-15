@@ -15,9 +15,9 @@ Transposon classification tool for nucleotide sequence classification, providing
   - **Output**: Trained classification model
 
 # Installation, Explanation of file structures, Citations, Acknowledgements and Benchmark Code
-Please read README.md here [transposon_classifier_rfsb](https://github.com/DerKevinRiehl/transposon_classifier_rfsb)
+Please read README.md here [transposon_classifier_rfsb](https://github.com/DerKevinRiehl/transposon_classifier_rfsb).
 
 # Changes made for @unisaVersion
-
+In progress...
 
 
